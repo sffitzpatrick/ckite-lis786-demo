@@ -1,5 +1,5 @@
 ---
-title: layout
+title: Home
 theme: default
 ---
 Charles Kite, RDN, LDN
