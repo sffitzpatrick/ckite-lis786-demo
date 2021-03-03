@@ -1,8 +1,7 @@
-<!-- Nutrition Information Page -->
-
 ---
 title: Nutrition Information
 theme: default
+permalink: /information/
 ---
 Charles Kite, RDN, LDN - Nutrition Information
 
