@@ -1,8 +1,7 @@
-<!-- Nutrition Media Page -->
-
 ---
 title: Nutrition Media
 theme: default
+permalink: /media/
 ---
 Charles Kite, RDN, LDN - Nutrition Media
 
