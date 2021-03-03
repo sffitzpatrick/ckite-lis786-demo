@@ -1,8 +1,7 @@
-<!-- Nutrition Services Page -->
-
 ---
 title: Nutrition Services
 theme: default
+permalink: /services/
 ---
 Charles Kite, RDN, LDN - Nutrition Services
 
