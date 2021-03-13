@@ -1,5 +1,6 @@
 ---
 title: Nutrition Services
+layout: page
 theme: default
 permalink: /services/
 ---
