@@ -3,19 +3,6 @@ title: Nutrition Information
 theme: default
 permalink: /information/
 ---
-Charles Kite, RDN, LDN
+This is our page for reliable sources of nutrition information. The content is all by the owners of their sites.
 
-- Charles Kite, RDN, LDN
-- Clinical Dietitian at Near North Health Service Corporation
-- Chicago, Illinois
-
-Near North Health Service Corporation
-
-
-City Colleges of Chicago-Wilbur Wright College
-
-About
-Experienced Registered Dietitian Nutritionist with a demonstrated history of working both inpatient and outpatient environments, focusing on chronic diseases and community health engagement. Skilled in Health Communication and Social Media. Strong healthcare services professional currently completing both a Master's of Nutrition and requirements to become a Certified Diabetes Educator.
-
-Source: [Linkedin](https://www.linkedin.com/in/charleslkite/)
-
+{% for nutrition_websites in site.nutrition_websites %}
