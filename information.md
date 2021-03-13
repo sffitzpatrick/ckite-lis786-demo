@@ -3,7 +3,7 @@ title: Nutrition Information
 theme: default
 permalink: /information/
 ---
-Charles Kite, RDN, LDN - Nutrition Information
+Charles Kite, RDN, LDN
 
 - Charles Kite, RDN, LDN
 - Clinical Dietitian at Near North Health Service Corporation
