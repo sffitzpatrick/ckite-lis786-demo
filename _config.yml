@@ -1,2 +1,7 @@
 title: Eat with Relish
 theme: jekyll-theme-modernist
+collections:
+  nutrition_websites:
+    output: true
+    layout: nutrition_website
+    
