@@ -3,7 +3,7 @@ title: Nutrition Media
 theme: default
 permalink: /media/
 ---
-Charles Kite, RDN, LDN - Nutrition Media
+Charles Kite, RDN, LDN
 
 - Charles Kite, RDN, LDN
 - Clinical Dietitian at Near North Health Service Corporation
