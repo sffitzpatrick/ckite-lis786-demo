@@ -1,5 +1,6 @@
 ---
 title: Nutrition Information
+layout: page
 theme: default
 permalink: /information/
 ---
