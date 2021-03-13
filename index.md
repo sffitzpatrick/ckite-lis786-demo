@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Eat with Relish
 theme: default
 ---
 Charles Kite, RDN, LDN
