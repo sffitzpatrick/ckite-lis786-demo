@@ -4,7 +4,7 @@ layout: page
 theme: default
 permalink: /services/
 ---
-Charles Kite, RDN, LDN - Nutrition Services
+Charles Kite, RDN, LDN
 
 - Charles Kite, RDN, LDN
 - Clinical Dietitian at Near North Health Service Corporation
