@@ -8,5 +8,4 @@ This is our page for reliable sources of nutrition information. The content is a
 {% for websites in site._nutrition_websites %}
  <h2>{{ websites.title }}</h2>
   <p>{{ websites.content }}</p>
-  <p>{{ websites.source }}</p>
 {% endfor %}
